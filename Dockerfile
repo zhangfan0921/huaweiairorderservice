@@ -1,7 +1,7 @@
 FROM java:8-jdk
 
 WORKDIR /home/apps/
-ADD target/huaweiairorderservice1-1.0.0.jar .
+ADD target/huaweiairorderservice2-1.0.0.jar .
 ADD target/lib ./lib
 ADD start.sh .
 
