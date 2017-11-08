@@ -1,6 +1,6 @@
-package com.services.pojo.csedemo;
+package com.huaweiair.pojo.csedemo;
 
-import com.services.pojo.csedemo.model.Person;
+import com.huaweiair.pojo.csedemo.model.Person;
 
 
 import static org.junit.Assert.*;  

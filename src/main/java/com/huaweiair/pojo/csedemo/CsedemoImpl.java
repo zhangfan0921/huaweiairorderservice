@@ -1,13 +1,13 @@
-package com.services.pojo.csedemo;
+package com.huaweiair.pojo.csedemo;
 
-import com.services.pojo.csedemo.model.Person;
+import com.huaweiair.pojo.csedemo.model.Person;
 
 import java.util.List;
 import javax.validation.constraints.*;
 import io.servicecomb.provider.pojo.RpcSchema;
-import com.services.pojo.csedemo.Csedemo;
+import com.huaweiair.pojo.csedemo.Csedemo;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.CsePojoCodegen", date = "2017-11-08T05:55:38.105Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.CsePojoCodegen", date = "2017-11-04T09:03:45.599Z")
 
 @RpcSchema(schemaId = "csedemo")
 public class CsedemoImpl implements Csedemo {

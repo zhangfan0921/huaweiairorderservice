@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   version: "1.0.0"
   title: "rest test"
-  x-java-interface: "com.services.pojo.csedemo.Csedemo"
+  x-java-interface: "com.huaweiair.pojo.csedemo.Csedemo"
 basePath: "/controller"
 schemes:
 - "http"

@@ -1,4 +1,4 @@
-package com.services.pojo;
+package com.huaweiair.pojo;
 
 import io.servicecomb.foundation.common.utils.BeanUtils;
 import io.servicecomb.foundation.common.utils.Log4jUtils;
